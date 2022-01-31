@@ -19,11 +19,13 @@
 -	In addition, it has another python file that saves the neural network when it's done training and loads the nn and keep training from a saved point.
 
 example of the AI in training:
+<p align="center">
 ![image](https://user-images.githubusercontent.com/44786079/151800708-1803438c-5ee6-4893-a38e-631fd80c303b.png)
+</p>
 
 example of the AI after training
 <p align="center">
-  ![Animation2](https://user-images.githubusercontent.com/44786079/151800614-198d7dca-c688-4f44-aae2-31b897c5a63e.gif)
+	![ Alt text](name-of-gif-file. gif) / ! [](https://user-images.githubusercontent.com/44786079/151800614-198d7dca-c688-4f44-aae2-31b897c5a63e.gif)
 </p>
 
 ### Installation:

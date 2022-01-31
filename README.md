@@ -24,7 +24,7 @@
 
 -	First of all, **clone the repository** using:
 ```
-git clone https://github.com/danivngopro/Chrome-Dinosaur-python-NEAT-AI.git
+git clone https://github.com/danivngopro/Falappy-Bird-NEAT-AI.git
 ``` 
 **OR**
 Download the Zip and extract it's contents.

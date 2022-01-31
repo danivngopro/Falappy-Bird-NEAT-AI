@@ -18,14 +18,8 @@
 -	The original code was just the game, it had been refactored and modified with the AI code using NEAT.
 -	In addition, it has another python file that saves the neural network when it's done training and loads the nn and keep training from a saved point.
 
-example of the AI in training:
 <p align="center">
-![image](https://user-images.githubusercontent.com/44786079/151801414-dc93cbbe-0997-4318-a15a-b2f82e27b3db.png)
-</p>
-
-example of the AI after training
-<p align="center">
-	![ Alt text](name-of-gif-file. gif) / ! [](https://user-images.githubusercontent.com/44786079/151800614-198d7dca-c688-4f44-aae2-31b897c5a63e.gif)
+	![Animation2](https://user-images.githubusercontent.com/44786079/151801664-59b30763-2965-4835-af76-aca43d58f1e5.gif)
 </p>
 
 ### Installation:

@@ -20,7 +20,7 @@
 
 example of the AI in training:
 <p align="center">
-![image](https://user-images.githubusercontent.com/44786079/151800708-1803438c-5ee6-4893-a38e-631fd80c303b.png)
+![image](https://user-images.githubusercontent.com/44786079/151801414-dc93cbbe-0997-4318-a15a-b2f82e27b3db.png)
 </p>
 
 example of the AI after training

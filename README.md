@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/44786079/151799550-061c47e0-37a1-45d4-8022-bd89a0ae6ffe.png)" width="97" height="97">
+  <img src=![image](https://user-images.githubusercontent.com/44786079/151799662-8376ddd7-df2c-489d-88bd-f06622e66708.png)
+ width="97" height="97">
   <h2 align="center" style="margin-top: -4px !important;">NEAT AI of the hidden Dinosaur Game from Chrome Browser.
 	  the AI was built over the basic game code taken from https://github.com/codewmax/ChromeDinosaur </h2>
   <p align="center">

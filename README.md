@@ -19,7 +19,7 @@
 -	In addition, it has another python file that saves the neural network when it's done training and loads the nn and keep training from a saved point.
 
 <p align="center">
-	![Animation2](https://user-images.githubusercontent.com/44786079/151801664-59b30763-2965-4835-af76-aca43d58f1e5.gif)
+	! [Animation2] (https://user-images.githubusercontent.com/44786079/151801664-59b30763-2965-4835-af76-aca43d58f1e5.gif)
 </p>
 
 ### Installation:
